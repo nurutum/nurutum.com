@@ -38,7 +38,7 @@ export default function Home() {
               href="mailto:nurutum.master@gmail.com"
               className="inline-flex h-12 items-center justify-center rounded-full bg-white px-8 text-sm font-semibold text-black hover:bg-zinc-200 transition-all active:scale-95 shadow-lg shadow-white/5"
             >
-              이메일로 문의하기 (nurutum.master@gmail.com)
+              이메일로 문의하기 (master@nurutum.com)
             </a>
           </div>
         </div>
