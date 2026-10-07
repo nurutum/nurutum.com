@@ -35,7 +35,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center gap-4">
             <span className="text-xs text-zinc-500 font-semibold tracking-widest uppercase">Contact</span>
             <a
-              href="mailto:nurutum.master@gmail.com"
+              href="mailto:master@nurutum.com"
               className="inline-flex h-12 items-center justify-center rounded-full bg-white px-8 text-sm font-semibold text-black hover:bg-zinc-200 transition-all active:scale-95 shadow-lg shadow-white/5"
             >
               이메일로 문의하기 (master@nurutum.com)
