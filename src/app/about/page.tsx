@@ -14,8 +14,9 @@ export default function About() {
             <span className="text-xs text-indigo-300 font-medium tracking-widest uppercase">Play Lab</span>
           </a>
           <nav className="flex items-center gap-6 sm:gap-8 text-sm font-medium text-zinc-300">
-            <a href="/" className="hover:text-white transition-colors">홈으로</a>
+            <a href="/" className="hover:text-white transition-colors">홈</a>
             <a href="/about" className="text-white font-semibold transition-colors">브랜드 스토리</a>
+            <a href="/product" className="hover:text-white transition-colors">프로덕트</a>
           </nav>
         </div>
       </header>
@@ -29,8 +30,8 @@ export default function About() {
 
         {/* 메인 타이틀 */}
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight leading-[1.2] mb-16">
-          꾸준함으로 채우는<br />
-          <span className="text-gradient-gold">매일의 유용한 빈틈</span>
+          즐거움으로 채우는<br />
+          <span className="text-gradient-gold">매일의 빈틈</span>
         </h1>
 
         {/* 철학 설명 (카드형 레이아웃) */}
